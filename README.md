@@ -2,6 +2,8 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...-->
+- 👨‍💻 I'm 17 years old
+- 🥖 I'm french
 - 📖 I’m currently learning C++ and Python
 - 📫 How to reach me : <a href="https://discord.com/users/361595963812478976">Discord</a>
 - 🖥️ I use <a href="https://code.visualstudio.com">Visual Studio Code</a>
