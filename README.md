@@ -14,5 +14,6 @@
 
 <!--![MaloDaHood's github stats](https://github-readme-stats.vercel.app/api?username=MaloDaHood&theme=tokyonight)
 <br><br> &layout=compact -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaloDaHood&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MaloDaHood&theme=tokyonight" alt="MaloDaHood" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaloDaHood&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
