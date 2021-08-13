@@ -7,7 +7,7 @@
 - 📖 I’m currently learning C++ and Python
 - 📫 How to reach me : <a href="https://discord.com/users/361595963812478976">Discord</a>
 - 🖥️ I use <a href="https://code.visualstudio.com">Visual Studio Code</a>
-- 📁 I program on <a href="https://www.microsoft.com/fr-fr/software-download/windows10">Windows🔟</a> and <a href="https://kubuntu.org/">Kubuntu🐧</a>
+- 📁 I program on <!--<a href="https://www.microsoft.com/fr-fr/software-download/windows10">Windows🔟</a> and --><a href="https://kubuntu.org/">Kubuntu🐧</a>
 <!--- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
