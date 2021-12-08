@@ -7,10 +7,3 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaloDaHood&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaloDaHood&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@3ab6a5ec-0283-48fe-a2b7-2ae8d28f32fa" />
-</a> -->
