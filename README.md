@@ -6,4 +6,4 @@
 - 🐧 I program on <a href="https://www.ubuntu-fr.org/">Ubuntu 21.10</a>(<a href="https://www.gnome.org/">Gnome</a>)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaloDaHood&theme=tokyonight&langs_count=3?hide=Makefile)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaloDaHood&theme=tokyonight&langs_count=3&hide=Makefile)](https://github.com/anuraghazra/github-readme-stats)
