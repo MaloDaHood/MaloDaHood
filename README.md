@@ -1,4 +1,4 @@
-- 👨‍💻 I'm 17 years old
+- 👨‍💻 I'm 18 years old
 - 🥖 I'm french
 - 📖 I’m currently learning [C](https://en.wikipedia.org/wiki/C_(programming_language))
 - 📫 How to reach me : [Discord](https://discord.com/users/361595963812478976) || [malomr2002@gmail.com](mailto:malomr2002@gmail.com)
