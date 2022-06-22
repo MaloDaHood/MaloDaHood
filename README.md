@@ -6,4 +6,4 @@
 - 🐧 I program on [Windows 11](https://www.microsoft.com/fr-fr/windows/windows-11) with [WSL](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux) - [Ubuntu 20.04](https://www.ubuntu-fr.org/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaloDaHood&theme=tokyonight&langs_count=3&hide=Makefile)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaloDaHood&theme=tokyonight&langs_count=4&hide=Makefile)](https://github.com/anuraghazra/github-readme-stats)
